@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Open">Open navigation drawer</string>
+
+
+    <string name="Question1">Назовите период,в который проходила Петсамо-Киркенесская операция</string>
+    <string name="Question2">Какому государству до 19 сентября 1944 года принадлежала территория Петсамо?</string>
+    <string name="Question3">Назовите кодовое название Петсамо-Киркенесской операции</string>
+    <string name="Question4">Назовите фамилию командующего Карельским флотом?</string>
+    <string name="Question5">Назовите фамилию командующего Сверным флотом в этот период военных действий</string>
+    <string name="Question6">Сколько периодов выделяют в Петсамо-Киркенесской операции</string>
+    <string name="Question7">Назовите фамилию солдата ,который отличился в первый день Петсамо-Киркенесской операции,повторив подвиг А.Матросова</string>
+    <string name="Question8">Назовите фамилию человека ,который для катерников Северного флота былл мастером торпедных атак и дерзких операций</string>
+    <string name="Question9">Фамилия пулеметчика 155 полка 14 стрелковой дивизии,который отличился в оборонительных боях,подорвав себя и врагов противотанковой гранатой</string>
+    <string name="Question10">Какая награда была учереждена Президиумом Верховного Совета СССР по  окончании Петсамо-Киркенесской операции</string>
+    <string name="Question11">Применения какого рода войск явилось неожиданностью для немецкого командования</string>
+
+
+
+    <string name="Answer1">7-29 октября 1944 года</string>
+    <string name="Answer2">финляндия</string>
+    <string name="Answer3">вест</string>
+    <string name="Answer4">мерецков</string>
+    <string name="Answer5">головко</string>
+    <string name="Answer6">3</string>
+    <string name="Answer7">ивченко</string>
+    <string name="Answer8">шабалин</string>
+    <string name="Answer9">бредов</string>
+    <string name="Answer10">медаль за обарону Советского Заполярья</string>
+    <string name="Answer11">танковые войска</string>
+
+
+</resources>
